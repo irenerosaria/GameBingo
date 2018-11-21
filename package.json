@@ -1,0 +1,20 @@
+{
+  "name": "bingomax",
+  "version": "1.0.0",
+  "description": "example",
+  "main": "bingo.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "git": "^0.1.5"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "irene <colonia-irene@hotmail.it>",
+  "license": "MIT"
+}
